@@ -1,0 +1,31 @@
+# Core
+python-dotenv
+requests
+pydantic
+
+# LangChain ecosystem
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langchain-google-genai
+langchain-mistralai
+langchain-huggingface
+langchain-anthropic
+
+# AI Providers
+openai
+google-generativeai
+mistralai
+huggingface_hub
+anthropic
+
+# Vector / embeddings (optional but useful)
+faiss-cpu
+tiktoken
+sentence-transformers
+
+# Utilities
+fastapi
+uvicorn
+rich
